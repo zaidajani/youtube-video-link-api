@@ -11,11 +11,11 @@ $ git clone https://github.com/zaidajani/youtube-video-link-api.git
 
 $ cd youtube-video-link-api
 
-$ npm i
+$ npm install
 
 $ npm run dev
 
-# Download all the files, and run it.
+# Download all the files, and run it by running the dev script.
 
 ```
 
